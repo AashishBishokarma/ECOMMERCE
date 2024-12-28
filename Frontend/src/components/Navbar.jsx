@@ -32,7 +32,6 @@ const Navbar = () => {
 
         <div className="group relative">
           <img
-            classNmae="w-5 coursor-pointer"
             src={assets.profile_icon}
             className="w-5 cursor-pointer"
             alt=""
