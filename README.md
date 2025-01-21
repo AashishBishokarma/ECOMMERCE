@@ -14,7 +14,44 @@
 - Shopping Cart: Add products to your cart, adjust quantities, and proceed to checkout.
 - Responsive Design: Optimized for desktop, tablet, and mobile devices.
 
+
+**OverView**
+
+
+  
+  1.HOME PAGE
+  
+  ![image](https://github.com/user-attachments/assets/98f3fe2e-39d2-4977-b2f3-a3bb12d58182)
+
+  2.COLLECTION PAGE
+  
+  ![image](https://github.com/user-attachments/assets/9b061047-dd19-4ba7-9ea3-d23a6a01cbaa)
+
+  3.CART VIEW
+
+  ![image](https://github.com/user-attachments/assets/d59f690a-3d13-4c2a-8034-b443ac6a257c)
+
+
+  4.ABOUT US
+
+  ![image](https://github.com/user-attachments/assets/960803b3-189f-4384-88df-5e035b384a62)
+
+
+  5.CONTACT US
+
+  ![image](https://github.com/user-attachments/assets/3d5f2efd-3155-4b34-aefb-7781e537a68e)
+
+
+  6.LOGIN PAGE
+
+  ![image](https://github.com/user-attachments/assets/fb675c8b-d3a7-40b5-8305-4be3e48c2142)
+
+
+
+
 **Installation**
+
+
 1.Clone the repository:
 
 `git clone https://github.com/AashishBishokarma/ECOMMERCE.git`
@@ -33,7 +70,13 @@
 
 Open http://localhost:3000 in your browser to view the app.
 
+
+
+
+
 Project Structure
+
+
     /src
 
     /public
@@ -63,15 +106,16 @@ Project Structure
     ├── App.js                # Main application component, responsible for routing and rendering pages
     └── index.js              # Entry point of the React app, rendering App.js into the root div in index.html
 
-Contributing
+
+
+**Contributing**
 Feel free to fork this repository, create issues, and submit pull requests. Contributions are always welcome!
 
 ### Steps to add this to your GitHub repository:
-
+```
 1. Open your project folder in your code editor.
 2. Create a new file named `README.md` in the root directory of your project.
 3. Copy and paste the content above into the `README.md` file.
 4. Save the file.
 5. Push the changes to your GitHub repository.
 
-Let me know if you'd like any adjustments or additions!
